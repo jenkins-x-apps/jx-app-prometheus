@@ -1,0 +1,5 @@
+---
+dependencies:
+- name: "prometheus"
+  repository: "@stable"
+  version: 8.10.3
