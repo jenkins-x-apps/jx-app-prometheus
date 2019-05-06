@@ -33,6 +33,7 @@ pipelineConfig:
                 command: make
                 args:
                 - build
+                dir: /workspace/source/jx-app-prometheus                
 
     release:
       pipeline:
@@ -89,3 +90,4 @@ pipelineConfig:
                 command: make
                 args:
                 - release
+                dir: /workspace/source/jx-app-prometheus
