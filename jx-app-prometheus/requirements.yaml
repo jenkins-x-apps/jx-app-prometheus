@@ -2,4 +2,4 @@
 dependencies:
 - name: "prometheus"
   repository: "@stable"
-  version: 8.10.3
+  version: 8.15.1
